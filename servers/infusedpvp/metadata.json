@@ -4,7 +4,7 @@
     "store": "https://store.infusedpvp.xyz/",
     "description": "A casual faction server.",
     "addresses": [
-        "play.infusedpvp.xyz"
+        "infusedpvp.xyz"
     ],
     "primaryAddress": "play.infusedpvp.xyz",
     "primaryColor": "#B827ED",
